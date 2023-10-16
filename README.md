@@ -1,4 +1,4 @@
-#Random-ball Movement 
+# Random-ball Movement 
 
 Redeem Ball Movement 
 It's like you want to implement ball movement in JavaScript and possibly want to understand 
@@ -19,6 +19,6 @@ in a separate CSS file (e.g., styles.css).
 Step 3: JavaScript for Ball Movement: In your JavaScript file (e.g., script.js), you can use JavaScript to control the movement of the ball. 
 Here's an example of moving the redeem ball  when a click to run the code ball is redeemly run 
 
-Future Improvement :
+## Future Improvement :
 
 If the is currently redeeming ball future improvement is the user chooses the color for using the ball game and the user chooses the point pick the ball X and Y position
